@@ -7,7 +7,7 @@
 
 **Empathy Map Template Link**: https://app.mural.co/invitation/mural/aichatbotforbankingindustry3733/1661419833787?sender=u18601c8be4ea48569db74064&key=3602040a-af15-4214-b32a-a64c11ae967a
 
-**Research Paper links                                                                                                                                               **
+**Research Paper links**                                                                                                                                               
 •	**Overcoming customer innovation resistance to the sustainable adoption
 of chatbot services: A community-enterprise perspective in Thailand** : https://drive.google.com/drive/folders/1xR0HwG1ke65rQYPoTYEeTsKLEPhiFg6z                       
 •	**Chatbot usage in restaurant takeout orders: A comparison study of three
