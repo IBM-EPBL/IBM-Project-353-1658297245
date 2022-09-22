@@ -22,7 +22,7 @@ for shopping**:https://drive.google.com/drive/folders/1xR0HwG1ke65rQYPoTYEeTsKLE
 •	**Banking Inquiry chatbot**: https://drive.google.com/drive/folders/10wq-7wB1nDfuEkXXaQZvKQEHTdYZWU5t                                                                 
 •	**Chat-Bot for college management system using AI**: https://drive.google.com/drive/folders/10wq-7wB1nDfuEkXXaQZvKQEHTdYZWU5t                                         
 •	**Using clinical history taking chatbot mobile app for clinical bedside teachings – A prospective case control study**: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                                                                                               
-•	Evaluating the use of chatbot during pregnancy: A usability study: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                           
+•	**Evaluating the use of chatbot during pregnancy: A usability study**: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                           
 •	**When do AI chatbots lead to higher customer satisfaction than human frontline employees in online shopping assistance? Considering product attribute type**: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                                                                                               
 •	**A longitudinal study of human–chatbot relationships**: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                                     
 •	**Chatbots applications in education: A systematic review**: https://drive.google.com/drive/folders/1GJzt_3fSGNze0XjLfElW6Hpwlb4BW5Nf                                 
