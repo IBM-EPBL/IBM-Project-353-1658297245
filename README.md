@@ -32,3 +32,4 @@ for shopping**:https://drive.google.com/drive/folders/1xR0HwG1ke65rQYPoTYEeTsKLE
 •	**Text-Based Chatbot in Financial Sector: A Systematic Literature Review**: https://drive.google.com/drive/folders/1iXQ53qR-dqvqxaQP06B16NxTViakUUKJ                 
 •	**The Impact of Chat-Bots on the Banking Experience**: https://drive.google.com/drive/folders/1iXQ53qR-dqvqxaQP06B16NxTViakUUKJ                                       
 
+**Brainstorming Ideation Template:**https://app.mural.co/t/aichatbotforbankingindustry3733/m/aichatbotforbankingindustry3733/1661420193240/73a6e2fb4dec0cc6d15d2015d41316ced76c9146?sender=u18601c8be4ea48569db74064
