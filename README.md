@@ -3,6 +3,7 @@
 <h1 align="center" style="margin-top: 0px;">AI based discourse for Banking Industry</h1>
 
 <p align="center" >Artificial Intelligence</p>
+
 ---
 
 ## Team Details
