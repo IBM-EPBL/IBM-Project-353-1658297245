@@ -4,7 +4,10 @@
 
 ## Domain: Artificial Intelligence
 
+
 ---
+
+## Team Details
 
 **Team ID :** PNT2022TMID38674 
 
@@ -30,6 +33,7 @@ Information Technology
 Adhiparasakthi Engineering College Melmaruvathur
 
 ---
+## Mentors
 
 **Industry Mentor(s) Name :Durga Prasad** 
 
@@ -58,7 +62,7 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 **Backend:** Python, Flask 
 
-**Cloud tool:** IBM Watson Assistant
+**Cloud Service:** IBM Watson Assistant
 
 ---
 
