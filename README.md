@@ -66,5 +66,6 @@ Adhiparasakthi Engineering College Melmaruvathur
 **Cloud tool:** IBM Watson Assistant
 
 
-![Thank You :-)](https://www.clipartmax.com/png/middle/420-4200317_thank-you-wahoo-docks-sm-transparent-background-thank-you-png.png)
-![For :-](https://futurumresearch.com/wp-content/uploads/2019/03/IBM-logo.png)
+![Thank You :-)](https://optinmonster.com/wp-content/uploads/2016/10/Anatomy-of-the-Perfect-Thank-You-Page.png)
+## For
+![IBM :-](https://futurumresearch.com/wp-content/uploads/2019/03/IBM-logo.png)
