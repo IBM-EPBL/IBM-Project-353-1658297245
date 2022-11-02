@@ -4,12 +4,11 @@
 
 ## Domain: Artificial Intelligence
 
-
-**Batch Name :** B7-1A3E
-
 ---
 
 **Team ID :** PNT2022TMID38674 
+
+**Batch Name :** B7-1A3E
 
 **Team Size :** 4
 
@@ -20,13 +19,6 @@
 **Team member :** Logesh R
 
 **Team member :** Hariharan M 
-
----
-**Industry Mentor(s) Name :Durga Prasad** 
-
-**Faculty Mentor(s) Name :N.Elamathi** 
-
----
 
 **Degree	:**	
 Bachelor of Technology
@@ -39,8 +31,11 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 ---
 
+**Industry Mentor(s) Name :Durga Prasad** 
 
+**Faculty Mentor(s) Name :N.Elamathi** 
 
+---
 
 
 ## Assignment  
