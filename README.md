@@ -1,17 +1,70 @@
 # IBM-Project-353-1658297245
-# **AI based discourse for Banking Industry**
 
-**Team Id**      :	PNT2022TMID38674                                                                                                                                     
-**Team Leader**  : Thiyagarajan V                                                                                                                                         
-**Members List** : Deenadhayalan V,Logesh R,Hariharan M                                                                                                                   
-# **Ideation phase**
+# **AI based discourse for Banking Industry
 
-**Empathy Map Template Link**: https://app.mural.co/invitation/mural/aichatbotforbankingindustry3733/1661419833787?sender=u18601c8be4ea48569db74064&key=3602040a-af15-4214-b32a-a64c11ae967a
+## Domain: Artificial Intelligence
 
-**Research Paper links**                                                                                                                                             
-•	**Toward a Chatbot for Financial Sustainability**: https://drive.google.com/drive/folders/10wq-7wB1nDfuEkXXaQZvKQEHTdYZWU5t                                           
-•	**Banking Inquiry chatbot**: https://drive.google.com/drive/folders/10wq-7wB1nDfuEkXXaQZvKQEHTdYZWU5t                                                                 
-•	**Banking With A Chatbot – A Study On Technology Acceptance**: https://drive.google.com/drive/folders/1iXQ53qR-dqvqxaQP06B16NxTViakUUKJ                               
-•	**The Impact of Chat-Bots on the Banking Experience**: https://drive.google.com/drive/folders/1iXQ53qR-dqvqxaQP06B16NxTViakUUKJ                                       
 
-**Brainstorming Ideation Template**: https://app.mural.co/t/aichatbotforbankingindustry3733/m/aichatbotforbankingindustry3733/1661420193240/73a6e2fb4dec0cc6d15d2015d41316ced76c9146?sender=u18601c8be4ea48569db74064
+**Batch Name :** B7-1A3E
+
+---
+
+**Team ID :** PNT2022TMID38674 
+
+**Team Size :** 4
+
+**Team Leader :** Thiyagarajan V 
+
+**Team member :** Deenadhayalan V
+
+**Team member :** Logesh R
+
+**Team member :** Hariharan M 
+
+---
+**Industry Mentor(s) Name :** 
+
+**Faculty Mentor(s) Name :** 
+
+---
+
+**Degree	:**	
+Bachelor of Technology
+
+**Branch	:**	
+Information Technology
+
+**College	:**	
+Adhiparasakthi Engineering College Melmaruvathur
+
+---
+
+
+
+
+
+## Assignment  
+
+ - [Team Leader : Thiyagarajan V ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Lead%20(Thiyagarajan%20V))
+ - [Team member : Deenadhayalan V ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%201%20(Deenadhayalan%20V))
+ - [Team member : Logesh R ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%202%20(Logesh%20R))
+ - [Team member : Hariharan M ](github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))
+
+
+## Project Design & Planning
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase-I)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
+
+## Tech Stack
+
+**Frontend:** Html,Css
+
+**Backend:** Python, Flask 
+
+**Cloud tool:** IBM Watson Assistant
+
+
+![Thank You :-)](https://w7.pngwing.com/pngs/313/267/png-transparent-euclidean-green-brush-thank-you-thank-you-and-white-cloud-illustration-blue-text-cloud.png)
+![For :-](https://futurumresearch.com/wp-content/uploads/2019/03/IBM-logo.png)
