@@ -1,13 +1,13 @@
-# IBM-Project-353-1658297245
+<p align="center" style="margin-bottom: 0px !important;">
+</p>
+<h1 align="center" style="margin-top: 0px;">AI based discourse for Banking Industry</h1>
 
-# **AI based discourse for Banking Industry**
-
-## Domain: Artificial Intelligence
-
-
+<p align="center" >Artificial Intelligence</p>
 ---
 
 ## Team Details
+**Domain:** Artificial Intelligence
+**Github ID:** IBM-Project-353-1658297245
 
 **Team ID :** PNT2022TMID38674 
 
