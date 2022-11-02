@@ -22,9 +22,9 @@
 **Team member :** Hariharan M 
 
 ---
-**Industry Mentor(s) Name :** 
+**Industry Mentor(s) Name :Durga Prasad** 
 
-**Faculty Mentor(s) Name :** 
+**Faculty Mentor(s) Name :N.Elamathi** 
 
 ---
 
