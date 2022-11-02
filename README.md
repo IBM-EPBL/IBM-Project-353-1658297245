@@ -32,7 +32,6 @@ Information Technology
 **College	:**	
 Adhiparasakthi Engineering College Melmaruvathur
 
----
 ## Mentors
 
 **Industry Mentor(s) Name :Durga Prasad** 
