@@ -7,7 +7,7 @@
 ---
 
 ## Team Details
-**Domain:** Artificial Intelligence
+**Domain:** Artificial Intelligence                     
 **Github ID:** IBM-Project-353-1658297245
 
 **Team ID :** PNT2022TMID38674 
