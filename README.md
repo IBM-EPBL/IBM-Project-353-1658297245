@@ -48,6 +48,11 @@ Adhiparasakthi Engineering College Melmaruvathur
  - [Team member : Logesh R ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%202%20(Logesh%20R))
  - [Team member : Hariharan M ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))
 
+## Project Objectives
+-[Project Objectives](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)
+
+## Prerequisites
+- [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Prerequisites)
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
@@ -63,8 +68,11 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 **Cloud Service:** IBM Watson Assistant
 
+## Project Development Phase
+- [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)
+
 ---
 
 ## **Thank you**
 
-![IBM :-](https://futurumresearch.com/wp-content/uploads/2019/03/IBM-logo.png)
+![IBM :-](https://animationvisarts.com/wp-content/uploads/2021/01/IBM-Logo-Design-1972-present.png)
