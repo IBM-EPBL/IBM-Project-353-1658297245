@@ -48,6 +48,11 @@ Adhiparasakthi Engineering College Melmaruvathur
  - [Team member : Logesh R ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%202%20(Logesh%20R))
  - [Team member : Hariharan M ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))
 
+## Project Objectives
+-[Project Objectives](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)
+
+## Prerequisites
+- [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Prerequisites)
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
@@ -62,6 +67,9 @@ Adhiparasakthi Engineering College Melmaruvathur
 **Backend:** Python, Flask 
 
 **Cloud Service:** IBM Watson Assistant
+
+## Project Development Phase
+- [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)
 
 ---
 
