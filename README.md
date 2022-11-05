@@ -75,4 +75,4 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 ## **Thank you**
 
-![IBM :-](https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg)
+![IBM :-](https://animationvisarts.com/wp-content/uploads/2021/01/IBM-Logo-Design-1972-present.png)
