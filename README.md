@@ -75,4 +75,4 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 ## **Thank you**
 
-![IBM :-](https://futurumresearch.com/wp-content/uploads/2019/03/IBM-logo.png)
+![IBM :-](https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg)
