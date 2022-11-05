@@ -49,7 +49,7 @@ Adhiparasakthi Engineering College Melmaruvathur
  - [Team member : Hariharan M ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))
 
 ## Project Objectives
--[Project Objectives](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)
+- [Project Objectives](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)
 
 ## Prerequisites
 - [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Prerequisites)
