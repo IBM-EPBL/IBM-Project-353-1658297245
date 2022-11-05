@@ -75,4 +75,4 @@ Adhiparasakthi Engineering College Melmaruvathur
 
 ## **Thank you**
 
-![IBM :-](https://storage.googleapis.com/accesswire/logos/subaccounts/34487.png?v=1)
+![IBM :-](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ygc0HYqLpyOYs1t_FENLkDIQVc4xTNsSCg&usqp=CAU)
