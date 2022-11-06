@@ -26,7 +26,6 @@
 |  **Mentory**  | **Name**  |
 | ------------- | ------------- |
 | **Industry Mentor(s)** | Durga Prasad | 
-
 | **Faculty Mentor(s)** | N.Elamathi | 
 
 ---
