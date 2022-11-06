@@ -7,6 +7,8 @@
 ---
 
 ## Team Details
+|  Team  | Details  |
+| ------------- | ------------- |
 | **Domain** | Artificial Intelligence |  
 
 | **Github ID** | IBM-Project-353-1658297245 |
