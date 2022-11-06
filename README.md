@@ -7,31 +7,29 @@
 ---
 
 ## Team Details
-**Domain:** Artificial Intelligence                     
-**Github ID:** IBM-Project-353-1658297245
+| **Domain** | | Artificial Intelligence |  
 
-**Team ID :** PNT2022TMID38674 
+| **Github ID** | | IBM-Project-353-1658297245 |
 
-**Batch Name :** B7-1A3E
+| **Team ID** | | PNT2022TMID38674 |  
 
-**Team Size :** 4
+| **Batch Name** | | B7-1A3E |
 
-**Team Leader :** Thiyagarajan V 
+| **Team Size** | | 4 | 
 
-**Team member :** Deenadhayalan V
+| **Team Leader **| | Thiyagarajan V | 
 
-**Team member :** Logesh R
+| **Team member ** | | Deenadhayalan V |
 
-**Team member :** Hariharan M 
+| **Team member ** | | Logesh R |
 
-**Degree	:**	
-Bachelor of Technology
+| **Team member ** | | Hariharan M | 
 
-**Branch	:**	
-Information Technology
+| **Degree	** |	| Bachelor of Technology |
 
-**College	:**	
-Adhiparasakthi Engineering College Melmaruvathur
+| **Branch	** | | Information Technology |
+
+| **College	** |	| Adhiparasakthi Engineering College Melmaruvathur |
 
 ## Mentors
 
