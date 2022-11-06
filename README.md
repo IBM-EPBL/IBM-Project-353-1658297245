@@ -52,12 +52,11 @@
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
 
 ## Tech Stack
-
-**Frontend:** Html,Css
-
-**Backend:** Python, Flask 
-
-**Cloud Service:** IBM Watson Assistant
+|  **Technology**  | **Name**  |
+| ------------- | ------------- |
+| **Frontend** | Html,Css |
+| **Backend** | Python, Flask |
+| **Cloud Service** | IBM Watson Assistant |
 
 ## Project Development Phase
 - [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)
