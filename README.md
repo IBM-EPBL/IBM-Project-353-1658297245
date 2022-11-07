@@ -22,8 +22,8 @@
 | **Branch** | Information Technology |
 | **College** | Adhiparasakthi Engineering College Melmaruvathur |
 
-## Mentors Details
-|  **Mentory**  | **Name**  |
+## Mentor's Details
+|  **Mentor's**  | **Name**  |
 | ------------- | ------------- |
 | **Industry Mentor(s)** | Durga Prasad | 
 | **Faculty Mentor(s)** | N.Elamathi | 
