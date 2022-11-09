@@ -22,8 +22,8 @@
 | **Branch** | Information Technology |
 | **College** | Adhiparasakthi Engineering College Melmaruvathur |
 
-## Mentors Details
-|  **Mentory**  | **Name**  |
+## Mentor's Details
+|  **Mentor's**  | **Name**  |
 | ------------- | ------------- |
 | **Industry Mentor(s)** | Durga Prasad | 
 | **Faculty Mentor(s)** | N.Elamathi | 
@@ -35,9 +35,9 @@
   |  **Member**  | **Name**  |
   | ------------- | ------------- |
   |Team Leader | [Thiyagarajan V ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Lead%20(Thiyagarajan%20V)) |
-  |Team member | [Deenadhayalan V ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%201%20(Deenadhayalan%20V)) |
-  |Team member | [Logesh R ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%202%20(Logesh%20R)) |
-  |Team member | [Hariharan M ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))|
+  |Team member 1 | [Deenadhayalan V ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%201%20(Deenadhayalan%20V)) |
+  |Team member 2 | [Logesh R ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%202%20(Logesh%20R)) |
+  |Team member 3 | [Hariharan M ](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Assignments/Team%20Member%203%20(Hariharan%20M))|
 
 ## Project Objectives
 - [Project Objectives](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)
