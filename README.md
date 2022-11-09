@@ -61,7 +61,7 @@
 ## Project Development Phase
 - [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)
 - [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%202)
-
+- [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%203)
 ---
 
 ## Thank you
