@@ -45,6 +45,20 @@
  | Project Objectives|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Objectives)|
  |Prerequisites|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Prerequisites)|
  
+## Problem statement
+I am an account holder I am trying to
+access my bank account service but it
+provides delay response only because
+preprogrammed text queries which makes
+me feel uncomfortable To overcome the
+problem of late responses of chatbot
+response.
+
+## Solution
+AI based cloud service which means
+watson assistance with
+facebook,whatsapp to be integrate
+ 
 ## Project Design & Planning
   |  **Document Name**  | **Document Link**  |
   | ------------- | ------------- |
