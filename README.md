@@ -57,7 +57,7 @@ response.
 ## Solution
 AI based cloud service which means
 watson assistance with
-facebook,whatsapp to be integrate
+facebook,whatsapp to be integrate.
  
 ## Project Design & Planning
   |  **Document Name**  | **Document Link**  |
