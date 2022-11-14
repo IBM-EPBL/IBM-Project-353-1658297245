@@ -74,7 +74,7 @@
 |Sprint 1|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)|
 |Sprint 2|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%202)|
 |Sprint 3|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%203)|
- 
+|Sprint 4|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%204)|
 ---
 
 
