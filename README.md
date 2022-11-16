@@ -78,7 +78,7 @@
 ---
 
 ##Application Demo Link
-[![](https://tdlh-banking-help-and-support.thiyagarajanvv.repl.co/)](https://cdn-icons-png.flaticon.com/512/1006/1006771.png)
+[Click here](https://tdlh-banking-help-and-support.thiyagarajanvv.repl.co/)
 
 ## Thank you
 
