@@ -78,7 +78,7 @@
 ---
 
 ## Application Demo Link                                                                                                                                 
-[Click here](https://tdlh-banking-help-and-support.thiyagarajanvv.repl.co/)
+[Click here](https://tdlhbot.herokuapp.com/)
 
 ## Thank you
 
