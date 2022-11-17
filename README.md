@@ -78,7 +78,7 @@
 ---
 
 ## Application Demo Link                                                                                                                                 
-[Click here](https://tdlhbot.herokuapp.com/)
+[Click here](https://tdlh.herokuapp.com/)
 
 ## Thank you
 
