@@ -33,9 +33,9 @@
 If a customer using a chatbot but it can delay response on web integration.
 
 ## 🤔 Solution Statement
-   We can use multiple chennal integration such as whatsapp,facebook messenger
- Whatsapp integration - https://drive.google.com/drive/folders/1RtWj5ZzenzeCV43G08TAMYxkDPlZv_yy?usp=sharing
- facebook messenger - https://drive.google.com/drive/folders/1LCx2UVtICfZYp_xMlZWbyxcj7oEJR_w1?usp=sharing
+   We can use multiple chennal integration such as whatsapp,facebook messenger                           
+ Whatsapp integration - https://drive.google.com/drive/folders/1RtWj5ZzenzeCV43G08TAMYxkDPlZv_yy?usp=sharing                                    
+ facebook messenger - https://drive.google.com/drive/folders/1LCx2UVtICfZYp_xMlZWbyxcj7oEJR_w1?usp=sharing                          
  
 ---
 
