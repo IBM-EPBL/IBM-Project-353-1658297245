@@ -6,7 +6,7 @@
 
 ---
 
-## Team Details
+## 🧑‍🤝‍🧑 Team Details
 |  **Team**  | **Details**  |
 | ------------- | ------------- |
 | **Domain** | Artificial Intelligence |  
@@ -22,14 +22,14 @@
 | **Branch** | Information Technology |
 | **College** | Adhiparasakthi Engineering College Melmaruvathur |
 
-## Mentor's Details
+## 👩‍🏫 Mentor's Details
 |  **Mentor's**  | **Name**  |
 | ------------- | ------------- |
 | **Industry Mentor(s)** | Durga Prasad | 
 | **Faculty Mentor(s)** | N.Elamathi | 
 
 ---
-## 🤔 Problem Statement
+## ⚠️ Problem Statement
 If a customer using a chatbot but it can delay response on web integration.
 
 ## 🤔 Solution Statement
@@ -62,7 +62,7 @@ If a customer using a chatbot but it can delay response on web integration.
   |Project Design Phase II|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II)|
   |Project Planning|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)|
   
-## Skills Required and Tech Stack
+## 👨‍💻 Skills Required and Tech Stack
 |  **Technology**  | **Reference Link**  |
 | ------------- | ------------- |
 |Html|[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)|
@@ -77,19 +77,28 @@ If a customer using a chatbot but it can delay response on web integration.
 
 
 
-## Project Development Phase
+## 🔧⚙️ Project Development Phase
 |  **Sprint Name**  | **Link**  |
 | ------------- | ------------- |
 |Sprint 1|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%201)|
 |Sprint 2|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%202)|
 |Sprint 3|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%203)|
 |Sprint 4|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Project%20Development%20Phase/Sprint%204)|
+
+## 🚩 Final
+|  **Sprint Name**  | **Link**  |
+| ------------- | ------------- |
+|Source Code|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/blob/main/Final%20Deliverables/final%20code.zip)|
+|Project Document|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/blob/main/Final%20Deliverables/IBM-353-1662027410.pdf)|
+|Demo Link|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/blob/main/Final%20Deliverables/Demo.txt)|
+|Performance Testing|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Final%20Deliverables/Performance%20Testing)|
+|User Acceptance Testing|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Final%20Deliverables/User%20Acceptance%20Testing)|
 ---
 
-## Application Demo Link                                                                                                                                 
+## 🌐 Application Demo Link                                                                                                                                 
 [Click here](https://tdlh.herokuapp.com/)
 
-## Demo Link
+## 🎞️ Demo Video Link
 [Click here](https://youtu.be/JDRLMlzs3KQ)
 ## Thank you
 
