@@ -102,6 +102,9 @@ If a customer using a chatbot but it can delay response on web integration.
 
 ## 🎞️ Demo Video Link
 [Click here](https://youtu.be/JDRLMlzs3KQ)
+
+![Watch the video](https://drive.google.com/file/d/1MAMYl17PoWtB_IwvlXLAQmeNPW7P7ip8/view?usp=sharing)](https://youtu.be/JDRLMlzs3KQ)
+
 ## 🙏 Thank you
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png" width="300" height="168" />
