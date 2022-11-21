@@ -100,6 +100,6 @@ If a customer using a chatbot but it can delay response on web integration.
 
 ## 🎞️ Demo Video Link
 [Click here](https://youtu.be/JDRLMlzs3KQ)
-## Thank you
+## 🙏 Thank you
 
 ![IBM :-](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ygc0HYqLpyOYs1t_FENLkDIQVc4xTNsSCg&usqp=CAU)
