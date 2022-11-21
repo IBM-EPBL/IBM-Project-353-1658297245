@@ -29,6 +29,9 @@
 | **Faculty Mentor(s)** | N.Elamathi | 
 
 ---
+## ℹ️ Project Detail
+In this project, we will be building a chatbot using Watson's assistant that helps banks for automating business processes such as customer service.
+
 ## ⚠️ Problem Statement
 If a customer using a chatbot but it can delay response on web integration.
 
