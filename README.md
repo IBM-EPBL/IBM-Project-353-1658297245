@@ -101,4 +101,4 @@ If a customer using a chatbot but it can delay response on web integration.
 [Click here](https://youtu.be/JDRLMlzs3KQ)
 ## 🙏 Thank you
 ---
-![IBM :-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png)
+![IBM :-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png =300x168)
