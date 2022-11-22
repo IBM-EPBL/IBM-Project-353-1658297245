@@ -1,7 +1,6 @@
 <p align="center" style="margin-bottom: 0px !important;">
 </p>
 <h1 align="center" style="margin-top: 0px;">AI based discourse for Banking Industry</h1>
-
 <p align="center">Artificial Intelligence</p>
 
 ---
@@ -97,14 +96,16 @@ If a customer using a chatbot but it can delay response on web integration.
 |User Acceptance Testing|[Link](https://github.com/IBM-EPBL/IBM-Project-353-1658297245/tree/main/Final%20Deliverables/User%20Acceptance%20Testing)|
 ---
 
-## 🌐 Application Link                                                                                                                                 
-[Click here](https://tdlh.herokuapp.com/)
+## 🌐 Application Link           
+                                                                                                               
+![[Click here](https://tdlh.herokuapp.com/)](https://i.postimg.cc/zfMKZVMG/Image.png)
+![[Click here](https://tdlh.herokuapp.com/)](https://dabuttonfactory.com/button.png?t=Click+here&f=Open+Sans-Bold&ts=18&tc=fff&hp=10&vp=10&c=round&bgt=unicolored&bgc=ffe700)
 
 ## 🎞️ Demo Video Link
-[Click here](https://youtu.be/JDRLMlzs3KQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDRLMlzs3KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Watch the video](https://drive.google.com/file/d/1MAMYl17PoWtB_IwvlXLAQmeNPW7P7ip8/view?usp=sharing)](https://youtu.be/JDRLMlzs3KQ)
+
 
 ## 🙏 Thank you
 ---
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png" width="300" height="168" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png" width="300" height="150" />
