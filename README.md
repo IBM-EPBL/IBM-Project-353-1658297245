@@ -98,11 +98,11 @@ If a customer using a chatbot but it can delay response on web integration.
 
 ## 🌐 Application Link (Click Image 👇)      
                                                                                                                
-![[Click here](https://tdlh.herokuapp.com/)](https://i.postimg.cc/zfMKZVMG/Image.png)
+![[Click here](https://i.postimg.cc/zfMKZVMG/Image.png)](https://tdlh.herokuapp.com/)
 
 ## 🎞️ Demo Video Link (Click Image 👇)
 
-![[Click here](https://www.youtube.com/embed/JDRLMlzs3KQ)](https://i.postimg.cc/zfMKZVMG/Image.png)
+![[Click here](https://i.postimg.cc/zfMKZVMG/Image.png)](https://www.youtube.com/embed/JDRLMlzs3KQ)
 
 
 ## 🙏 Thank you
